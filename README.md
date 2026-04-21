@@ -28,9 +28,10 @@ With 27+ years in education, curriculum design, and systems implementation, I br
 ---
 
 ## Zero Trust (Simple Breakdown)
-<img width="744" height="653" alt="Screenshot 2026-04-21 at 1 13 18 PM" src="https://github.com/user-attachments/assets/36dab360-8428-44d8-b377-f678eb335d63" />
 
-![Zero Trust Diagram](zero-trust.png)
+<p align="center">
+  <img src="ZeroTrustArtifact.png" width="50%">
+</p>
 
 *This visual reflects how I think about Zero Trust - not just as a technical model, but as a framework for understanding and communicating risk across users, devices, networks, and applications.*
 
