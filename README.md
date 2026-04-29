@@ -52,3 +52,15 @@ This concept is especially relevant as organizations move toward cloud-based and
 
 ## Purpose
 To build a body of work that demonstrates the ability to translate cybersecurity concepts into meaningful, practical understanding for organizations and people.
+
+
+## Visual Insights
+
+### Evolution of Cyber Threats in the Age of AI
+
+![AI Threat Evolution](AI Threat Caterpillar-Coccoon-Butterfly.png)
+
+This visual represents the shift from static, human-paced threats to AI-enhanced, machine-scale threats.
+
+Key takeaway:
+Assume exposure. Design for resilience.
