@@ -58,8 +58,7 @@ To build a body of work that demonstrates the ability to translate cybersecurity
 
 ### Evolution of Cyber Threats in the Age of AI
 
-![AI Threat Evolution](AI Threat Caterpillar-Coccoon-B
-utterfly.png)
+![AI Threat Evolution](AIThreatCaterpillarCoccoonButterfly.png)
 
 This visual represents the shift from static, human-paced threats to AI-enhanced, machine-scale threats.
 
