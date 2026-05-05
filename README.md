@@ -29,7 +29,7 @@ This reflects my transition into cybersecurity with a focus on making security u
   <img src="https://raw.githubusercontent.com/jenmnolan-ai/cyber-risk-and-awareness/main/ZeroTrustArtifact.png" width="500" alt="Zero Trust simplified diagram"/>
 </p>
 
-<p align="center"><em>Breaking down Zero Trust into a clear, human-understandable model to support security awareness and non-technical communication.</em></p>
+<p align="center"><em>Breaking down Zero Trust into a clear, people-friendly model to support security awareness and non-technical communication.</em></p>
 
 This artifact demonstrates how complex security frameworks can be translated into accessible, visual explanations for broader audiences.
 
