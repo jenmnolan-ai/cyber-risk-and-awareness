@@ -37,6 +37,13 @@ This visual was created to simplify Zero Trust concepts for broader audiences us
 
 ---
 
+## 🧩 Additional Artifacts
+
+* 🎣 **Phishing Awareness Example**
+  Simple behavioral guidance for identifying and avoiding phishing attacks, focused on practical user decision-making.
+
+---
+
 ## 💡 Why This Matters
 
 Security failures are often not purely technical — they are human.
