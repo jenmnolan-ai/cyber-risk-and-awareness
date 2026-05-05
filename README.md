@@ -1,66 +1,85 @@
-# Cybersecurity, AI & Human Risk - Applied Learning & Insights
+# 👋 Hi, I'm Jennifer Nolan
 
-*This repository reflects applied learning and thinking as I build in cybersecurity, AI, and human risk.*
+**AI Literacy • GRC • Security Awareness • Learning Design**
 
----
-
-## Overview
-I am currently transitioning into cybersecurity with a focus on Security Awareness, GRC, and AI-related risk.
-
-With 27+ years in education, curriculum design, and systems implementation, I bring a strong foundation in communication, training, and structured thinking, and I am actively building technical knowledge in cybersecurity.
+I translate complex topics like AI, cybersecurity, and human risk into clear, actionable learning experiences.
 
 ---
 
-## Current Areas of Focus
-🔐 ISC2 Certified in Cybersecurity (CC)  
-🛡️ CompTIA Security+  
-🤖 AI and Cybersecurity Risk  
-📊 Governance, Risk, and Compliance (GRC)  
-🧠 Security Awareness and Human Behavior  
+## 🚀 Featured Project
 
----
+### 🤖 AI Literacy Prompt Explorer
 
-## Current Work
-- Notes and reflections on foundational cybersecurity concepts  
-- Analysis of AI-related risk and governance considerations  
-- Synthesis of learning from conferences, webinars, and community engagement  
-
----
-
-## Zero Trust (Simple Breakdown)
+🔗 https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
 
 <p align="center">
-  <img src="ZeroTrustArtifact.png" width="50%">
+  <img src="compare-ai-outputs.png" width="420"/>
 </p>
 
-*This visual reflects how I think about Zero Trust - not just as a technical model, but as a framework for understanding and communicating risk across users, devices, networks, and applications.*
+<p align="center"><em>How prompt design shapes AI outputs, bias, and fairness.</em></p>
 
-**Key Idea:**  
-Never trust, always verify - every user, device, and connection.
+An interactive learning tool that helps users understand how prompts influence AI responses — and how to improve them for clarity, inclusivity, and accuracy.
 
-**What this means in practice:**  
-- No automatic trust based on location (inside or outside a network)  
-- Every access request must be verified  
-- Access is limited based on what is needed (least privilege)
-
-**Why it matters:**  
-Zero Trust reduces the risk of unauthorized access, especially in environments where users, devices, and data are distributed.
-
-This concept is especially relevant as organizations move toward cloud-based and distributed environments.
+* Scenario-based AI bias exploration
+* Real-time feedback and prompt improvement
+* Accessibility-first design (Section 508 / WCAG aware)
+* Built with Streamlit + Python
 
 ---
 
-## Purpose
-To build a body of work that demonstrates the ability to translate cybersecurity concepts into meaningful, practical understanding for organizations and people.
+## 📂 Featured Work
 
+### 🤖 AI Literacy Prompt Explorer
 
-## Visual Insights
+🔗 https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
 
-### Evolution of Cyber Threats in the Age of AI
+Interactive tool demonstrating how prompt design impacts AI outputs, bias, and fairness.
 
-![AI Threat Evolution](AIThreatCaterpillarCoccoonButterfly.png)
+---
 
-This visual represents the shift from static, human-paced threats to AI-enhanced, machine-scale threats.
+### 🔐 Cyber Risk & Awareness
 
-Key takeaway:
-Assume exposure. Design for resilience.
+🔗 https://github.com/jenmnolan-ai/cyber-risk-and-awareness
+
+Exploration of GRC, security awareness, and human risk concepts, focused on translating complex cybersecurity ideas into practical, real-world understanding.
+
+---
+
+## 🧠 What I Do
+
+* Design **learning systems** that drive real behavior change
+* Build **AI literacy & security awareness programs**
+* Apply **GRC + human risk thinking** to training and communication
+* Translate technical risk into **clear, usable guidance**
+
+---
+
+## 🛠️ Current Focus
+
+* CompTIA Security+
+* ISC2 Certified in Cybersecurity (CC)
+* AI governance & human-centered risk
+* Building hands-on portfolio projects
+
+---
+
+## 🤝 Let’s Connect
+
+* LinkedIn: https://www.linkedin.com/in/nolaninspires/
+
+---
+
+## 💡 Philosophy
+
+> “AI should help people see more possibilities, not fewer.”
+
+---
+
+## ⭐ What This Profile Demonstrates
+
+* Instructional design for complex, emerging topics
+* Human-centered AI and bias awareness
+* Accessibility-first UI thinking
+* Practical application of AI ethics concepts
+* Prompt engineering and learning design integration
+* Awareness of accessibility compliance requirements (Section 508, WCAG) in digital tools
