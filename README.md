@@ -6,9 +6,9 @@ This repository captures my exploration of cybersecurity governance, risk, and h
 
 Rather than focusing only on technical controls, this work emphasizes:
 
-* Human risk and behavior
-* Communication of security concepts to non-technical audiences
-* Practical application of GRC principles
+* Human risk and behavior  
+* Communication of security concepts to non-technical audiences  
+* Practical application of GRC principles  
 
 This reflects my transition into cybersecurity with a focus on making security understandable, actionable, and relevant.
 
@@ -16,10 +16,10 @@ This reflects my transition into cybersecurity with a focus on making security u
 
 ## 🧠 Focus Areas
 
-* Governance, Risk, and Compliance (GRC)
-* Security awareness and human risk
-* AI-related risk and responsible use
-* Translating technical concepts into learning experiences
+* Governance, Risk, and Compliance (GRC)  
+* Security awareness and human risk  
+* AI-related risk and responsible use  
+* Translating technical concepts into learning experiences  
 
 ---
 
@@ -37,11 +37,23 @@ This visual was created to simplify Zero Trust concepts for broader audiences us
 
 ---
 
+## 🧩 Interactive Artifact: Phishing Awareness Trainer
+
+🔗 **Launch App:** https://share.streamlit.io/jenmnolan-ai/cyber-risk-and-awareness/main/phishing_app.py
+
+An interactive phishing awareness tool where users practice identifying real-world phishing scenarios and receive immediate feedback.
+
+* Scenario-based phishing detection  
+* Immediate feedback and explanation  
+* Focus on behavior and decision-making (not just correctness)  
+* Reinforces the habit: **Pause. Verify. Don’t click.**
+
+---
+
 ## 🧩 Additional Artifacts
 
-* 🎣 **Phishing Awareness Example**
-  [View artifact](PhishingAwarenessExample.md)
-  Simple behavioral guidance for identifying and avoiding phishing attacks, focused on practical user decision-making.
+* 🎣 **Phishing Awareness Example** – [View artifact](PhishingAwarenessExample.md)  
+  Simple behavioral guidance for identifying and avoiding phishing attacks.
 
 ---
 
@@ -51,9 +63,9 @@ Security failures are often not purely technical — they are human.
 
 Understanding risk requires:
 
-* Clear communication
-* Behavior-aware design
-* Alignment between policy and real-world use
+* Clear communication  
+* Behavior-aware design  
+* Alignment between policy and real-world use  
 
 This work focuses on bridging that gap.
 
@@ -63,16 +75,16 @@ This work focuses on bridging that gap.
 
 This repository will continue to evolve into:
 
-* Security awareness examples
-* GRC-aligned learning artifacts
-* AI risk and governance explorations
-* Practical training and communication models
+* Security awareness examples  
+* GRC-aligned learning artifacts  
+* AI risk and governance explorations  
+* Practical training and communication models  
 
 ---
 
 ## 👩‍💻 About
 
-Jennifer Nolan
-AI Literacy • GRC • Security Awareness • Learning Design
+Jennifer Nolan  
+AI Literacy • GRC • Security Awareness • Learning Design  
 
 Focused on translating complex systems into clear, actionable understanding.
