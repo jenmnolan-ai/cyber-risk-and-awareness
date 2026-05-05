@@ -10,19 +10,19 @@ I translate complex topics like AI, cybersecurity, and human risk into clear, ac
 
 ### 🤖 AI Literacy Prompt Explorer
 
-🔗 https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
+🔗 **Live App:** https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
 
 <p align="center">
-  <img src="compare-ai-outputs.png" width="420"/>
+  <img src="https://raw.githubusercontent.com/jenmnolan-ai/jenmnolan-ai/main/compare-ai-outputs.png" width="420" alt="AI prompt comparison showing bias versus improved output"/>
 </p>
 
 <p align="center"><em>How prompt design shapes AI outputs, bias, and fairness.</em></p>
 
-An interactive learning tool that helps users understand how prompts influence AI responses — and how to improve them for clarity, inclusivity, and accuracy.
+An interactive learning tool that helps users understand how prompts influence AI responses and how to improve them for clarity, inclusivity, and accuracy.
 
 * Scenario-based AI bias exploration
 * Real-time feedback and prompt improvement
-* Accessibility-first design (Section 508 / WCAG aware)
+* Accessibility-first design with Section 508 / WCAG awareness
 * Built with Streamlit + Python
 
 ---
@@ -35,8 +35,6 @@ An interactive learning tool that helps users understand how prompts influence A
 
 Interactive tool demonstrating how prompt design impacts AI outputs, bias, and fairness.
 
----
-
 ### 🔐 Cyber Risk & Awareness
 
 🔗 https://github.com/jenmnolan-ai/cyber-risk-and-awareness
@@ -48,8 +46,8 @@ Exploration of GRC, security awareness, and human risk concepts, focused on tran
 ## 🧠 What I Do
 
 * Design **learning systems** that drive real behavior change
-* Build **AI literacy & security awareness programs**
-* Apply **GRC + human risk thinking** to training and communication
+* Build **AI literacy and security awareness programs**
+* Apply **GRC and human risk thinking** to training and communication
 * Translate technical risk into **clear, usable guidance**
 
 ---
@@ -58,7 +56,7 @@ Exploration of GRC, security awareness, and human risk concepts, focused on tran
 
 * CompTIA Security+
 * ISC2 Certified in Cybersecurity (CC)
-* AI governance & human-centered risk
+* AI governance and human-centered risk
 * Building hands-on portfolio projects
 
 ---
