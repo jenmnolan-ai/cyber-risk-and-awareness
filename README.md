@@ -40,6 +40,7 @@ This visual was created to simplify Zero Trust concepts for broader audiences us
 ## 🧩 Additional Artifacts
 
 * 🎣 **Phishing Awareness Example**
+  [View artifact](PhishingAwarenessExample.md)
   Simple behavioral guidance for identifying and avoiding phishing attacks, focused on practical user decision-making.
 
 ---
