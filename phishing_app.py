@@ -50,14 +50,13 @@ for i, scenario in enumerate(scenarios):
 
     st.markdown("---")
 
-# --- FINAL SCORE ---
-if st.button("Show Final Score"):
-    total = len(scenarios)
-    st.write(f"Your Score: {score} / {total}")
+# --- SO WHAT? ---
+st.subheader("So What?")
 
-    if score == total:
-        st.success("Excellent! You spotted all phishing attempts.")
-    elif score >= total - 1:
-        st.warning("Almost perfect! Review one more time.")
-    else:
-        st.error("Keep practicing. Look for urgency, links, and requests for info.")
+st.write(
+    "Phishing works because it pressures people to act quickly before they stop and think. "
+    "The goal of this practice is not just to get the answers right, but to build the habit of pausing, "
+    "checking the sender, looking closely at links, and verifying unexpected requests before clicking."
+)
+
+st.success("Thanks for paying closer attention. Pause. Verify. Don’t click.")
