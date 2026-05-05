@@ -1,83 +1,70 @@
-# 👋 Hi, I'm Jennifer Nolan
+# 🔐 Cyber Risk & Awareness
 
-**AI Literacy • GRC • Security Awareness • Learning Design**
+## 🧭 Purpose
 
-I translate complex topics like AI, cybersecurity, and human risk into clear, actionable learning experiences.
+This repository captures my exploration of cybersecurity governance, risk, and human-centered security awareness.
+
+Rather than focusing only on technical controls, this work emphasizes:
+
+* Human risk and behavior
+* Communication of security concepts to non-technical audiences
+* Practical application of GRC principles
+
+This reflects my transition into cybersecurity with a focus on making security understandable, actionable, and relevant.
 
 ---
 
-## 🚀 Featured Project
+## 🧠 Focus Areas
 
-### 🤖 AI Literacy Prompt Explorer
+* Governance, Risk, and Compliance (GRC)
+* Security awareness and human risk
+* AI-related risk and responsible use
+* Translating technical concepts into learning experiences
 
-🔗 **Live App:** https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
+---
+
+## 🧩 Featured Artifact: Zero Trust (Simplified)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jenmnolan-ai/jenmnolan-ai/main/compare-ai-outputs.png" width="420" alt="AI prompt comparison showing bias versus improved output"/>
+  <img src="https://raw.githubusercontent.com/jenmnolan-ai/cyber-risk-and-awareness/main/ZeroTrustArtifact.png" width="500" alt="Zero Trust simplified diagram"/>
 </p>
 
-<p align="center"><em>How prompt design shapes AI outputs, bias, and fairness.</em></p>
+<p align="center"><em>Breaking down Zero Trust into a clear, human-understandable model to support security awareness and non-technical communication.</em></p>
 
-An interactive learning tool that helps users understand how prompts influence AI responses and how to improve them for clarity, inclusivity, and accuracy.
+This artifact demonstrates how complex security frameworks can be translated into accessible, visual explanations for broader audiences.
 
-* Scenario-based AI bias exploration
-* Real-time feedback and prompt improvement
-* Accessibility-first design with Section 508 / WCAG awareness
-* Built with Streamlit + Python
+This visual was created to simplify Zero Trust concepts for broader audiences using AI-assisted design tools.
 
 ---
 
-## 📂 Featured Work
+## 💡 Why This Matters
 
-### 🤖 AI Literacy Prompt Explorer
+Security failures are often not purely technical — they are human.
 
-🔗 https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
+Understanding risk requires:
 
-Interactive tool demonstrating how prompt design impacts AI outputs, bias, and fairness.
+* Clear communication
+* Behavior-aware design
+* Alignment between policy and real-world use
 
-### 🔐 Cyber Risk & Awareness
-
-🔗 https://github.com/jenmnolan-ai/cyber-risk-and-awareness
-
-Exploration of GRC, security awareness, and human risk concepts, focused on translating complex cybersecurity ideas into practical, real-world understanding.
+This work focuses on bridging that gap.
 
 ---
 
-## 🧠 What I Do
+## 🚀 Direction
 
-* Design **learning systems** that drive real behavior change
-* Build **AI literacy and security awareness programs**
-* Apply **GRC and human risk thinking** to training and communication
-* Translate technical risk into **clear, usable guidance**
+This repository will continue to evolve into:
 
----
-
-## 🛠️ Current Focus
-
-* CompTIA Security+
-* ISC2 Certified in Cybersecurity (CC)
-* AI governance and human-centered risk
-* Building hands-on portfolio projects
+* Security awareness examples
+* GRC-aligned learning artifacts
+* AI risk and governance explorations
+* Practical training and communication models
 
 ---
 
-## 🤝 Let’s Connect
+## 👩‍💻 About
 
-* LinkedIn: https://www.linkedin.com/in/nolaninspires/
+Jennifer Nolan
+AI Literacy • GRC • Security Awareness • Learning Design
 
----
-
-## 💡 Philosophy
-
-> “AI should help people see more possibilities, not fewer.”
-
----
-
-## ⭐ What This Profile Demonstrates
-
-* Instructional design for complex, emerging topics
-* Human-centered AI and bias awareness
-* Accessibility-first UI thinking
-* Practical application of AI ethics concepts
-* Prompt engineering and learning design integration
-* Awareness of accessibility compliance requirements (Section 508, WCAG) in digital tools
+Focused on translating complex systems into clear, actionable understanding.
